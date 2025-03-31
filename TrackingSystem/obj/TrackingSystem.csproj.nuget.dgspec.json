@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\TrackingSystem\\TrackingSystem.csproj": {}
+    "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\TrackingSystem\\TrackingSystem.csproj": {}
   },
   "projects": {
-    "c:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\TrackingSystem\\TrackingSystem.csproj": {
+    "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\TrackingSystem\\TrackingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\TrackingSystem\\TrackingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\TrackingSystem\\TrackingSystem.csproj",
         "projectName": "TrackingSystem",
-        "projectPath": "c:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\TrackingSystem\\TrackingSystem.csproj",
+        "projectPath": "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\TrackingSystem\\TrackingSystem.csproj",
         "packagesPath": "C:\\Users\\edwel\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\TrackingSystem\\obj\\",
+        "outputPath": "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\TrackingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edwel\\AppData\\Roaming\\NuGet\\NuGet.Config"
