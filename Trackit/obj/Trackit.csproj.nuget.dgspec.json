@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\Trackit\\Trackit.csproj": {}
+    "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\trackit\\Trackit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\Trackit\\Trackit.csproj": {
+    "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\trackit\\Trackit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\Trackit\\Trackit.csproj",
+        "projectUniqueName": "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\trackit\\Trackit.csproj",
         "projectName": "Trackit",
-        "projectPath": "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\Trackit\\Trackit.csproj",
+        "projectPath": "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\trackit\\Trackit.csproj",
         "packagesPath": "C:\\Users\\edwel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\Trackit\\obj\\",
+        "outputPath": "C:\\Users\\edwel\\OneDrive\\Documents\\BYU\\Inventory-Tracking-System\\trackit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edwel\\AppData\\Roaming\\NuGet\\NuGet.Config"
